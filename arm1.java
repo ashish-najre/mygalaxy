@@ -2,6 +2,8 @@ class prime1{
 
 public static void main(String[]args){
 
+//this is prime number code
+
 	int num=17;
 	int count=0;
 
